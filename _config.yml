@@ -1,0 +1,28 @@
+name: The Arabist
+favicon: null
+layout_spectrum: 0.4698512826580554
+typography_spectrum: 0.4101473360788077
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9713355449493974
+  lightness: 0.1699299744796008
+  saturation: 0.9586437076795846
+  rhythmicContrast: 0.2073575546965003
+purpose: []
